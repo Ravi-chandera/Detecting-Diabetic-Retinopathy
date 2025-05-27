@@ -15,7 +15,7 @@ Diabetic Retinopathy (DR) is one of the leading causes of vision loss among indi
 <summary>More about DR</summary>
 
 ```
-**Diabetic retinopathy** is an eye condition and a complication of diabetes that damages the blood vessels in the retina—the light-sensitive tissue at the back of the eye responsible for vision. It is a leading cause of vision loss and blindness in adults, particularly in people who have had diabetes for many years
+Diabetic retinopathy is an eye condition and a complication of diabetes that damages the blood vessels in the retina—the light-sensitive tissue at the back of the eye responsible for vision. It is a leading cause of vision loss and blindness in adults, particularly in people who have had diabetes for many years
     
     ## Causes
     
@@ -27,8 +27,8 @@ Diabetic Retinopathy (DR) is one of the leading causes of vision loss among indi
     
     There are two main stages:
     
-    - **Non proliferative Diabetic Retinopathy (NPDR):** The early stage, where blood vessels in the retina weaken, swell, and may leak fluid or blood. This can lead to swelling of the retina (macular edema) and mild vision loss
-    - **Proliferative Diabetic Retinopathy (PDR):** The advanced stage, marked by the growth of new, abnormal blood vessels on the retina’s surface. These vessels can bleed into the eye, cause scar tissue, and may result in severe vision loss or blindness
+    - Non proliferative Diabetic Retinopathy (NPDR): The early stage, where blood vessels in the retina weaken, swell, and may leak fluid or blood. This can lead to swelling of the retina (macular edema) and mild vision loss
+    - Proliferative Diabetic Retinopathy (PDR): The advanced stage, marked by the growth of new, abnormal blood vessels on the retina’s surface. These vessels can bleed into the eye, cause scar tissue, and may result in severe vision loss or blindness
     
     ## Symptoms
     
