@@ -11,9 +11,11 @@ Diabetic Retinopathy (DR) is one of the leading causes of vision loss among indi
 - Deployment potential in remote areas through mobile or edge devices.
 - A step towards large-scale screening for DR, contributing to early intervention and treatment.
 
-- More about DR
-    
-    **Diabetic retinopathy** is an eye condition and a complication of diabetes that damages the blood vessels in the retina—the light-sensitive tissue at the back of the eye responsible for vision. It is a leading cause of vision loss and blindness in adults, particularly in people who have had diabetes for many years
+<details>
+<summary>More about DR</summary>
+
+```
+**Diabetic retinopathy** is an eye condition and a complication of diabetes that damages the blood vessels in the retina—the light-sensitive tissue at the back of the eye responsible for vision. It is a leading cause of vision loss and blindness in adults, particularly in people who have had diabetes for many years
     
     ## Causes
     
@@ -55,3 +57,8 @@ Diabetic Retinopathy (DR) is one of the leading causes of vision loss among indi
     - Good control of blood sugar, blood pressure, and cholesterol can significantly reduce the risk and slow the progression of diabetic retinopathy
     - Regular eye exams are crucial for early detection and treatment
     - Treatments include laser therapy, anti-VEGF injections, and surgery in advanced cases
+
+```
+</details>
+    
+    
