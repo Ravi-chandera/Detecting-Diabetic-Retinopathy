@@ -13,7 +13,8 @@ Diabetic Retinopathy (DR) is one of the leading causes of vision loss among indi
 
 <details>
 <summary>More about DR</summary>
-Diabetic retinopathy is an eye condition and a complication of diabetes that damages the blood vessels in the retina—the light-sensitive tissue at the back of the eye responsible for vision. It is a leading cause of vision loss and blindness in adults, particularly in people who have had diabetes for many years
+
+    Diabetic retinopathy is an eye condition and a complication of diabetes that damages the blood vessels in the retina—the light-sensitive tissue at the back of the eye responsible for vision. It is a leading cause of vision loss and blindness in adults, particularly in people who have had diabetes for many years
     
     ## Causes
     
