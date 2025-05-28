@@ -57,5 +57,31 @@ Diabetic Retinopathy (DR) is one of the causes of vision loss among individuals 
     - Treatments include laser therapy, anti-VEGF injections, and surgery in advanced cases
 
 </details>
-    
-    
+
+## Dataset idea
+
+From background knowledge of DR, I believe we would need data
+
+## Class details
+
+0 - No DR
+
+1 - Mild
+
+2 - Moderate
+
+3 - Severe
+
+4 - Proliferative DR
+
+This is how problem becomes of multi class classification.
+
+## Human observation of images
+
+I believe if we can see some samples for each class, we get more idea of how they differ from each other, so later on during misclassifications we might know that what went wrong. 
+
+Take a look at images: https://drive.google.com/drive/folders/1kiXyLmHrTrMWUSSFAj8SaaH0FQ4IEnQ_?usp=sharing
+
+here are some observations. 
+
+As we move from 0 to 4,
