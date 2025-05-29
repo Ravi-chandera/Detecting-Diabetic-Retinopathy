@@ -81,10 +81,19 @@ This is how problem becomes of multi class classification.
 I believe if we can see some samples for each class, we get more idea of how they differ from each other, so later on during misclassifications we might know that what went wrong. 
 
 Take a look at images
+### class 0
 1. ![Class 0](assets/class_0.png)
+
+### class 1
 2. ![class 1](assets/class_1.png)
+
+### class 2
 3. ![class 2](assets/class_2.png)
+
+### class 3
 4. ![class 3](assets/class_3.png)
+
+### class 4
 5. ![class 4](assets/class_4.png)
 
 here are some observations. 
