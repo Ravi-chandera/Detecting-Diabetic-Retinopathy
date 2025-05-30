@@ -99,3 +99,7 @@ Take a look at 100 images of each class.
 here are some observations. 
 
 As we move from 0 to 4,
+
+## Storing data 
+Our data size is large and it can't be stored into local system, so I am using AWS S3. 
+While creating bucket, I have enabled versioning so when we do training, all the model checkpoints are versioned. Also s3 can store any type of data and this will help if we want to build data lake. 
