@@ -4,7 +4,7 @@
 Diabetic Retinopathy (DR) is one of the causes of vision loss among individuals with diabetes. Manual screening processes are time-consuming, resource-intensive, and often unavailable in underserved or rural areas. There is a need for a scalable, efficient, and reliable solution to detect DR early and accurately .
 
 This is how eyes are examined and need to check fundus of eye manually and make decision. This is time consuming and also we need experts to perform and instrument to check. 
-![Eye checking for DR](README_assets/image.png)
+![Eye checking for DR](README_assets/manual_eye_checking.png)
 
 ## **Expected Outcomes**
 
